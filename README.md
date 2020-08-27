@@ -1,4 +1,7 @@
 # Microsoft.SQLServer.Windows.Mirroring
+
+## 7.0.24.0
+
 SQL Server Mirroring MP for SQL 2012, 2014, 2016, 2017, and 2019
 
 This management pack will monitor SQL database mirroring.  It is designed to work alongside the SQL Server Agnostic Management Pack.
@@ -14,4 +17,4 @@ Monitoring:
 * Partner State Status
 
 Version History:
-* 7.0.20.20 - Preview Release
+* 7.0.24.0  RTM Release
