@@ -8,12 +8,14 @@ SQL Server Mirroring MP for SQL 2012, 2014, 2016, 2017, and 2019
 
 This management pack will monitor SQL database mirroring.  It is designed to work alongside the SQL Server Agnostic Management Pack.
 
+https://kevinholman.com/2020/08/27/sql-mirroring-version-agnostic-management-pack/
+
 Objects discovered:
 * Mirrored Database
 * Mirror Witness
 * Mirror Group
 
-Monitoring:
+Key Monitoring Scenarios:
 * Mirroring Synchronization Status
 * Witness Status
 * Partner State Status
