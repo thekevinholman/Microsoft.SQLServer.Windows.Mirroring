@@ -2,7 +2,7 @@
 
 ## [Download Here][Download]
 
-[Download]: https://github.com/thekevinholman/Microsoft.SQLServer.Windows.Mirroring/releases/download/7.0.24.0/Microsoft.SQLServer.Windows.Mirroring.mp
+[Download]: https://github.com/thekevinholman/Microsoft.SQLServer.Windows.Mirroring/archive/refs/heads/master.zip
 
 SQL Server Mirroring MP for SQL 2012, 2014, 2016, 2017, and 2019
 
