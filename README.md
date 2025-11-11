@@ -1,4 +1,4 @@
-# Microsoft.SQLServer.Windows.Mirroring 7.0.24.0
+# Microsoft.SQLServer.Windows.Mirroring 7.0.25.0
 
 ## [Download Here][Download]
 
@@ -21,4 +21,5 @@ Key Monitoring Scenarios:
 * Partner State Status
 
 Version History:
+* 7.0.25.0  11-11-2025 - Updated monitors to support ovverides for Matchcount to control transient noise.
 * 7.0.24.0  RTM Release
